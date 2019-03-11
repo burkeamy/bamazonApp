@@ -18,4 +18,16 @@ insert into bamazonStock (product_name, department_name, price, stock_quantity)
 values ("yoga matt", "sporting goods", 25.99, 50);
 
 insert into bamazonStock (product_name, department_name, price, stock_quantity)
-values ("deluxe kitty tower", "pets", 299.99, 5);
+values ("kitty tower", "pets", 299.99, 5);
+
+insert into bamazonStock (product_name, department_name, price, stock_quantity)
+values ("picture frame", "home decor", 5.00, 16);
+
+insert into bamazonStock (product_name, department_name, price, stock_quantity)
+values ("diamond necklace", "jewlery", 299.99, 5);
+
+insert into bamazonStock (product_name, department_name, price, stock_quantity)
+values ("easel", "arts and crafts", 14.99, 5);
+
+insert into bamazonStock (product_name, department_name, price, stock_quantity)
+values ("paint brushes", "arts and crafts", 1.99, 85);
